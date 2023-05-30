@@ -1,7 +1,7 @@
 // Course_1 Saturday  Conditions ========================================================
 
-if(Course_1_Time == 9.30 && Course_1_Day == Saturday){
-    document.getElementById("Saturday-9.30").innerHTML = 
+if(Course_1_Time == 8.30 && Course_1_Day == Saturday){
+    document.getElementById("Saturday-8.30").innerHTML = 
     Course_1_Name + "<br><br>" + 
     Course_1_Teacher + "<br><br>" + 
     Course_1_RoomNo + "<hr>";
