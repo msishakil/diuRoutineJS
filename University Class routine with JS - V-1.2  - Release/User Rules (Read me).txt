@@ -1,0 +1,27 @@
+How to use?
+
+----------- About ---------------------------
+This is a core coding based routine
+Which is developed by: Saiful islam Shakil
+----------------------------------------------
+
+
+if you want to use or test it, then you need to do the process, as following :
+
+** Open the "include" file (include.js) in your text editor.
+** Then edit your desired needs. //Which was mentioned in the file.
+
+Here added 12 subjects to handle.
+Note That : if you have an overlap class, then the program will count the last one.
+I will develop for it in next time to add in next line.
+
+
+
+
+=============  Developer info =============================
+MD. Saiful islam Shakil.
+B.Sc in CSE
+Daffodil international University
+Batch : 47 (Summer 2017 Session).
+Faculty of Science & information Technology - FSIT.
+============================================================

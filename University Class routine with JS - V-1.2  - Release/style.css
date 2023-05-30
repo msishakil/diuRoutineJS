@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+@font-face{
+    font-family : TexasRider;
+    src: url("assets/TheBrande.ttf");
+}
+
+
+.main_body{
+
+}
+
+.main_head{
+    width: 99%;
+    margin: auto;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+
+.diu_inf{
+    color: rgb(84, 219, 56);
+
+}
+
+table{
+    width: 100%;
+    
+}
+
+.days{
+    margin: auto ;
+   
+}
+
+
+
+
+tr{
+    background: red;
+    padding: 20px;
+    
+    
+}
+td{
+    padding: 10px;
+}
+
+td h4{
+
+    padding: 10px;
+}
+
+.day_head {
+    text-align: center;
+    color: rgb(247, 247, 252);
+    font-weight: bold;
+}
+
+.day{
+    text-align: center;
+    font-family: TheBrande;
+    
+}
+
+.day td h4{
+    
+}
